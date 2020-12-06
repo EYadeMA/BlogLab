@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BlogLab.Models.Settings
 {
-    public class CloudinaryOption
+    public class CloudinaryOptions
     {
         public string CloudName { get; set; }
 
